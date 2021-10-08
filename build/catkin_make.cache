@@ -1,0 +1,2 @@
+ardrone_autonomy:drone_control:tum_simulator_melodic/cvg_sim_gazebo:tum_simulator_melodic/cvg_sim_gazebo_plugins:tum_simulator_melodic/cvg_sim_msgs:tum_simulator_melodic/message_to_tf:tum_simulator_melodic/tum_simulator
+-DCATKIN_DEVEL_PREFIX=/home/faber/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/faber/catkin_ws/install -G Unix Makefiles
